@@ -1,5 +1,3 @@
-import Foundation
-
 if let input = readLine(), let purchaseAmount = Double(input) {
     let discount: Int
     switch purchaseAmount {

@@ -1,5 +1,3 @@
-import Foundation
-
 if let dayOfWeek = readLine()?.lowercased() {
     let days = [
         "понедельник": 1,

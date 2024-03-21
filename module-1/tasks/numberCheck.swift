@@ -1,5 +1,3 @@
-import Foundation
-
 if let input = readLine(), let number = Int(input) {
     if number % 2 == 0 {
         print("0")

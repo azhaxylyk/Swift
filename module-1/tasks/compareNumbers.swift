@@ -1,5 +1,3 @@
-import Foundation
-
 if let input = readLine() {
     let numbers = input.split(separator: " ").compactMap { Int($0) }
     

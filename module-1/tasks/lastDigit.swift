@@ -1,5 +1,3 @@
-import Foundation
-
 if let input = readLine(), let a = Int(input), a > 0 {
     let lastDigit = a % 10
 
